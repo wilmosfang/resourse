@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "fileName": "20190823T152249Z.meta",
+    "size": 537
+  },
+  "limited": false,
+  "files": [
+    {
+      "database": "new_test",
+      "policy": "autogen",
+      "shardID": 25,
+      "fileName": "20190823T152249Z.s25.tar.gz",
+      "size": 679424,
+      "lastModified": 0
+    },
+    {
+      "database": "new_test",
+      "policy": "autogen",
+      "shardID": 26,
+      "fileName": "20190823T152249Z.s26.tar.gz",
+      "size": 81920,
+      "lastModified": 0
+    }
+  ]
+}
